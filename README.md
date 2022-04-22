@@ -1,4 +1,4 @@
-# Fshion-Mnist-classification
+# Fashion-Mnist-classification
 Fashion-Mnist classification
 
 The dataset download from Keras.datasets.fashion_mnist
